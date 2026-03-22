@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a219f45f-b6ee-475c-a12c-3e155a6acbe9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.eleventy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/articles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/articles/testarticle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.njk" beforeDir="false" afterPath="$PROJECT_DIR$/articles.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +71,7 @@
       <workItem from="1774124448777" duration="9983000" />
       <workItem from="1774143183048" duration="4006000" />
       <workItem from="1774189923888" duration="5063000" />
-      <workItem from="1774201585869" duration="845000" />
+      <workItem from="1774201585869" duration="1098000" />
     </task>
     <task id="LOCAL-00001">
       <option name="closed" value="true" />
