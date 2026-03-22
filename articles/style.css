@@ -1,0 +1,27 @@
+html {
+  color: #f0f0f0;
+  font-family: 'samsung', sans-serif;
+  font-size: 1em;
+  line-height: 1.4;
+}
+body {
+  background: #2d2d2d;
+  margin: 10px;
+  padding: 10px 40% 10px 10px;
+}
+button {
+  background: #424242;
+  font-size: calc(1rem + 1vw);
+  font-family: 'samsung', sans-serif;
+  border: ridge red;
+  border-radius: 5px;
+  outline: black;
+  cursor: pointer;
+  color: white;
+  height: 200px;
+  width: 80%;
+
+}
+.centered {
+  text-align: center;
+}
