@@ -36,7 +36,7 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/user/WebstormProjects/Labs Website&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user/Documents/bkd.lol&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -64,8 +64,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1774124447440</updated>
-      <workItem from="1774124448777" duration="6720000" />
+      <workItem from="1774124448777" duration="9826000" />
     </task>
+    <task id="LOCAL-00001">
+      <option name="closed" value="true" />
+      <created>1774135653050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774135653050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
