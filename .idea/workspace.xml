@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a219f45f-b6ee-475c-a12c-3e155a6acbe9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +99,11 @@
       <workItem from="1774553735496" duration="517000" />
       <workItem from="1774554287946" duration="4000" />
       <workItem from="1774556225804" duration="35000" />
+      <workItem from="1774803678372" duration="323000" />
+      <workItem from="1774819750922" duration="4000" />
+      <workItem from="1774986449980" duration="449000" />
+      <workItem from="1775782431367" duration="32000" />
+      <workItem from="1775783022588" duration="3000" />
     </task>
     <task id="LOCAL-00001">
       <option name="closed" value="true" />
