@@ -245,9 +245,3 @@ textarea {
     page-break-after: avoid;
   }
 }
-
-
-@font-face {
-  font-family: 'samsung';
-  src: url('../font.ttf') format('truetype');
-}
